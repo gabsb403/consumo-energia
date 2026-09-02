@@ -6,8 +6,8 @@ O objetivo deste projeto é calcular o consumo de energia elétrica mensal de um
 
 ## 🐍 LINGUAGEM UTILIZADA
 
+<img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="HTML" height="40" width="40"
 
 
 

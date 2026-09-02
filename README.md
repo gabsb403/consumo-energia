@@ -37,4 +37,6 @@ O cálculo será:
 ```text
 Aparelho: Geladeira
 Consumo estimado: 54.00 kWh/mês
+```
+
 ![Calculadora de Consumo](imagens/calculadora.png)
